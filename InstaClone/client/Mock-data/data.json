@@ -1,0 +1,29 @@
+{
+    "user":
+            [
+                {
+                    "name":"Yuvaraj Sing",
+                    "location":"Punjab",
+                    "likes":100,
+                    "description": "Match Winning Moment",
+                    "PostImage": "./images/1.jpg",
+                    "date": "12/02/2022"
+                },
+                {
+                    "name":"Teddy Bear",
+                    "location":"Gujarat",
+                    "likes":90,
+                    "description": "Soft toy",
+                    "PostImage": "./images/2.jpg",
+                    "date": "15/05/2022"
+                },
+                {
+                    "name":"Dog",
+                    "location":"Rajsthan",
+                    "likes":80,
+                    "description": "Animal",
+                    "PostImage": "./images/3.jpg",
+                    "date": "10/06/2022"
+                }
+            ]
+}
